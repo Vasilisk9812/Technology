@@ -1,0 +1,92 @@
+.header{
+	background-color: rgb(255, 215, 0);
+	height: 100px;
+}
+.mainHeader{
+	padding-top: 10px;
+	padding-left: 50px;
+}
+.header-container{
+	position: absolute;
+}
+.header-container2{
+	position: absolute;
+	padding-left: 70%;
+	padding-bottom: -500px;
+}
+.hp{
+	position: absolute;
+}
+#p1{
+
+}
+#p2{
+	padding-top: 13px;	
+}
+#p3{
+	padding-top: 26px;
+	width:100px;
+}
+#p4{
+	padding-top: 39px;
+}
+.image-container{
+	width: 100%;
+	height: 100%;
+}
+.content-container{
+	display: inline-block;
+}
+.brief{
+	display: inline-block;
+	width: 32.5%;
+	height: 860px;
+	position: absolute;
+	margin-top: -18px;
+	background-color: rgb(255, 215, 0);
+}
+.bio{
+	position: absolute;
+	margin-left: 33%;
+	margin-top: -18px;
+	height: 860px;
+	display: inline-block;
+	width: 32.5%;
+	background-color: rgb(255, 215, 0);
+}
+.quotes{
+	height: 860px;
+	display: inline-block;
+	position: absolute;
+	margin-top: -18px;
+	margin-left: 66%;
+	width: 32.5%;
+	background-color: rgb(255, 215, 0);
+}
+.sectionText{
+	text-align: center;
+	background-color: rgb(255, 215, 0);
+}
+.links{
+	position: absolute;
+	margin-top: 830px;
+	width: 100%;
+}
+#links{
+	height: 50px;
+	padding-top: 20px;
+}
+a{
+	color:black;
+	font-size: 120%;
+}
+.footer{
+	position: absolute;
+	height: 60px;
+	padding-top: 10px;
+	width: 100%;
+	background-color: rgb(255, 215, 0);
+	margin-top: 1040px;
+	text-align: center;
+	font-size: 130%;
+}
